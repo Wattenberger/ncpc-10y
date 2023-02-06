@@ -75,29 +75,42 @@ html {
 @tailwind utilities;
 
 body {
-	@apply font-serif;
+	@apply font-sans;
 	font-size: 1.2em;
 	line-height: 1.6em;
+	background: #f1f5ff;
+}
+@media (max-width: 640px) {
+	body {
+		font-size: 1em;
+	}
 }
 
+h1,
+h2,
+h3 {
+	@apply font-heading;
+	@apply text-primary-dark;
+	font-weight: 700;
+}
 h1 {
 	margin-top: 2em;
 	margin-bottom: 0.5em;
-	@apply text-5xl font-black;
+	@apply sm:text-5xl text-2xl font-black;
 }
 h2 {
 	margin-top: 1em;
 	margin-bottom: 0.5em;
-	@apply text-3xl font-bold;
+	@apply sm:text-3xl text-xl font-black;
 }
 h3 {
 	margin-top: 1em;
 	margin-bottom: 0.5em;
-	@apply text-2xl font-bold;
+	@apply sm:text-2xl text-xl font-black;
 }
 
 a {
-	@apply text-blue-600;
+	@apply text-primary-dark;
 	text-decoration: underline;
 }
 

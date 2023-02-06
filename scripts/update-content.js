@@ -19,7 +19,7 @@ const fetchContent = async () => {
     }
 
     const htmlStructure = parse(text);
-    console.log('htmlStructure', htmlStructure)
+
     const stylesText = htmlStructure.querySelector('style')?.text || '';
     const styleMarks = getStylesFromText(stylesText);
     console.log('styleMarks', styleMarks)
@@ -71,10 +71,10 @@ const getStylesFromText = (text) => {
   ].forEach(([style, styleMarks]) => {
     const regex = new RegExp(`([^}]+)({[^{}]*(${style})[^{}]*})`, 'g')
     const matches = text.match(regex)
-    matches.forEach((match) => {
+    matches?.forEach((match) => {
       const selectors = match.split('{')[0].split(',');
       const classNames = selectors.filter((selector) => selector.startsWith('.')).map((selector) => selector.slice(1))
-      classNames.forEach((className) => {
+      classNames?.forEach((className) => {
         if (!classStyles[className]) classStyles[className] = []
         classStyles[className].push(styleMarks)
       })

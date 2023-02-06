@@ -4,8 +4,13 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
-        serif: ['Parclo', 'sans-serif'],
+        sans: ['Ranade', 'sans-serif'],
+        heading: ['Archivo', 'sans-serif'],
+        serif: ['Parclo', 'serif'],
+      },
+      colors: {
+        primary: '#B9D2C2',
+        "primary-dark": '#2F5E4F',
       }
     },
   },

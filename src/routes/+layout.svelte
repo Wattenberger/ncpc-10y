@@ -4,10 +4,10 @@
 	import './styles.css';
 </script>
 
-<div class="app">
+<div class="">
 	<!-- <Header /> -->
 
-	<main class="w-full min-h-[calc(100vh-10em)] px-10 py-6">
+	<main class="w-full min-h-[calc(100vh-10em)]">
 		<slot />
 	</main>
 
