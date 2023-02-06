@@ -1,0 +1,120 @@
+@import url('https://rsms.me/inter/inter.css');
+@font-face {
+	font-family: 'Parclo';
+	font-weight: 900;
+	font-display: swap;
+	src: url('/fonts/ParcloSerif-ExtraBlack.woff') format('woff'),
+		url('/fonts/ParcloSerif-ExtraBlack.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Parclo';
+	font-style: italic;
+	font-weight: 900;
+	font-display: swap;
+	src: url('/fonts/ParcloSerif-ExtraBlackItalic.woff') format('woff'),
+		url('/fonts/ParcloSerif-ExtraBlackItalic.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Parclo';
+	font-weight: 800;
+	font-display: swap;
+	src: url('/fonts/ParcloSerif-Black.woff') format('woff'),
+		url('/fonts/ParcloSerif-Black.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Parclo';
+	font-weight: 700;
+	font-display: swap;
+	src: url('/fonts/ParcloSerif-Bold.woff') format('woff'),
+		url('/fonts/ParcloSerif-Bold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Parclo';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url('/fonts/ParcloSerif-Medium.woff') format('woff'),
+		url('/fonts/ParcloSerif-Medium.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Parclo';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url('/fonts/ParcloSerif-Regular.woff') format('woff'),
+		url('/fonts/ParcloSerif-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Parclo';
+	font-style: normal;
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+	src: url('/fonts/ParcloSerif-Italic.woff') format('woff'),
+		url('/fonts/ParcloSerif-Italic.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Parclo';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url('/fonts/ParcloSerif-Light.woff') format('woff'),
+		url('/fonts/ParcloSerif-Light.woff2') format('woff2');
+}
+html {
+	font-family: 'Inter', sans-serif;
+}
+@supports (font-variation-settings: normal) {
+	html {
+		font-family: 'Inter var', sans-serif;
+	}
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	@apply font-serif;
+	font-size: 1.2em;
+	line-height: 1.6em;
+}
+
+h1 {
+	margin-top: 2em;
+	margin-bottom: 0.5em;
+	@apply text-5xl font-black;
+}
+h2 {
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	@apply text-3xl font-bold;
+}
+h3 {
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	@apply text-2xl font-bold;
+}
+
+a {
+	@apply text-blue-600;
+	text-decoration: underline;
+}
+
+ul,
+ol {
+	@apply list-inside;
+	margin: 1em 0;
+}
+
+ul {
+	@apply list-disc;
+}
+
+ol {
+	@apply list-decimal;
+}
+
+li {
+	margin: 0.5em 0;
+}
