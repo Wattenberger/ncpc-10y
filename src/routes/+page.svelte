@@ -24,10 +24,10 @@
 		</div>
 	</div>
 
-	<div class="my-20 gap-10 col-start-2 col-span-3">
+	<div class="my-20 gap-10 col-start-1 col-span-5 h-[36em]">
 		<iframe
 			width="100%"
-			height="450"
+			height="100%"
 			frameborder="0"
 			title="Police beats"
 			src="https://felt.com/embed/map/Tutorial-Learn-to-Use-Felt-SSfd9AgpRQMOPPucWAFUeOC?lat=37.837316&lon=-122.27199&zoom=14.491"
