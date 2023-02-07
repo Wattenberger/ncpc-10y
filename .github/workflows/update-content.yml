@@ -36,9 +36,11 @@ jobs:
         run: yarn content
 
       - name: Commit changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "Github Actions"
           git add .
           git commit -m "Update content"
-          git push origin main ${{ env.GH_TOKEN }}:x-oauth-basic@github.com/wattenberger/ncpc-10y.git
+          git push origin main ${{ env.GH_TOKEN }}:x-oauth-basic@github.com/Wattenberger/ncpc-10y.git
