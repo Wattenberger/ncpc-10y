@@ -55,6 +55,8 @@ const splatTextAndAddStyleMarks = (node, styleMarksPerClass = {}) => {
   if (!inlineElements.includes(node.rawTagName) && node.childNodes.length) text += '\n'
   if (node.rawTagName === 'a') {
     const url = /href="([^"]+)"/.exec(node.rawAttrs)?.[1]
+      .replace("https://www.google.com/url?q=", "")
+      .split("&")[0]
     text = `<a href="${url}">${text}</a>`
   }
   if (["ul", "ol", "li"].includes(node.rawTagName)) {
