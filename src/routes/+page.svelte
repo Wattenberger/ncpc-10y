@@ -8,6 +8,10 @@
 	<meta name="description" content="Info about the NCPC 10Y beat" />
 </svelte:head>
 
+<div class="w-full overflow-hidden flex items-start justify-center">
+	{@html content.header_image}
+</div>
+
 <section class="grid grid-cols-[2em,1fr,min(50em,calc(100vw-4em)),1fr,2em]">
 	<div class="col-start-3">
 		<h1 class="">{content.title}</h1>

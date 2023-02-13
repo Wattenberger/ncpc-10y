@@ -35,7 +35,7 @@ const fetchContent = async () => {
   }
 };
 
-const inlineElements = ["span", "a"]
+const inlineElements = ["span", "a", "img"]
 const splatTextAndAddStyleMarks = (node, styleMarksPerClass = {}) => {
   let styleMarks = new Set();
   (node.classList?.value || []).forEach((className) => {
@@ -58,8 +58,11 @@ const splatTextAndAddStyleMarks = (node, styleMarksPerClass = {}) => {
       .replace("https://www.google.com/url?q=", "")
       .split("&")[0]
     text = `<a href="${url}">${text}</a>`
-  }
-  if (["ul", "ol", "li"].includes(node.rawTagName)) {
+  } else if (node.rawTagName === 'img') {
+    const alt = /alt="([^"]+)"/.exec(node.rawAttrs)?.[1]
+    const src = /src="([^"]+)"/.exec(node.rawAttrs)?.[1]
+    text = `<img src="${src}" alt="${alt}"/>`
+  } else if (["ul", "ol", "li"].includes(node.rawTagName)) {
     text = `<${node.rawTagName}>${text}</${node.rawTagName}>`
   }
   return text
