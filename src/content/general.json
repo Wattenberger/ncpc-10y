@@ -7,43 +7,197 @@
   "schedule": "\nNC 10Y meets on the 4th Wednesday of each month (except December and November). Any community member (lives, works, or worships) who wishes to regularly attend and participate in meetings is also welcome to join by signing up <a href=\"https://forms.gle/doTCnAGyMq8FRHh39\">here</a>.\nOur next meeting is on Wednesday, March 22, 2023 at 6:30 PM..  We are working to find a space to host hybrid meetings for those who would rather attend in person (if you have a space that is amenable to host a hybrid meeting, please email <a href=\"mailto:yates@duck.com\">yates@duck.com</a>). \n\n<ul><li>Wednesday, March 22, 2023 at 6:30 PM\n</li><li>Wednesday, April 26, 2023 at 6:30 PM\n</li><li>Wednesday, May 24, 2023 at 6:30 PM\n</li><li>Wednesday, June 28, 2023 at 6:30 PM\n</li><li>Wednesday, July 27, 2023 at 6:30 PM\n</li><li>Wednesday, August 23, 2023 at 6:30 PM\n</li><li>Wednesday, September 27, 2023 at 6:30 PM\n</li><li>Wednesday, October 25, 2023 at 6:30 PM\n</li>\n</ul>",
   "faq": [
     {
-      "title": "Disclaimer: Why reporting a problem is important.",
-      "info": "For many people, reporting a problem is an obvious first step to solving that problem. However, due to increasing distrust of city services, many people in Oakland are hesitant to involve the city (e.g., the police). Our NC recognizes this reality, but on principle, we take a data-driven approach to understanding what problems our neighborhood is facing. How can we solve a problem if we do not know it exists?\\nWhether or not you, personally, believe in the current form of policing in US cities, we urge you to find a constructive way to report the obstacles you are encountering. We will work to create multiple options for you and to build a cohesive accounting of what happens in 10Y. This section is a living document that represents our current understanding of how best to report problems Longfellow and Santa Fe neighbors encounter."
+      "title": [
+        {
+          "type": "text",
+          "value": "Why reporting a problem is important."
+        }
+      ],
+      "info": [
+        {
+          "type": "text",
+          "value": "For many people, reporting a problem is an obvious first step to solving that problem. However, due to increasing distrust of city services, many people in Oakland are hesitant to involve the city (e.g., the police). Our NC recognizes this reality, but on principle, we take a data-driven approach to understanding what problems our neighborhood is facing. How can we solve a problem if we do not know it exists?"
+        },
+        {
+          "type": "text",
+          "value": "Whether or not you, personally, believe in the current form of policing in US cities, we urge you to find a constructive way to report the obstacles you are encountering. We will work to create multiple options for you and to build a cohesive accounting of what happens in 10Y. This section is a living document that represents our current understanding of how best to report problems Longfellow and Santa Fe neighbors encounter."
+        }
+      ]
     },
     {
       "title": "How do I report a problem?",
-      "info": "Depending on the problem (and whether it is a crime and whether you want to involve city services) there are several ways to report. That’s what this faq is for. (Note: this is an evolving document and will likely change as we collect more information)."
+      "info": [
+        {
+          "type": "text",
+          "value": "Depending on the problem (and whether it is a crime and whether you want to involve city services) there are several ways to report. That’s what this faq is for. (Note: this is an evolving document and will likely change as we collect more information)."
+        }
+      ]
     },
     {
       "title": "I have a medical emergency",
-      "info": "From a landline, call 911*. From a cell phone: call the Oakland Fire Department dispatch number 510-444-1616."
+      "info": [
+        {
+          "type": "text",
+          "value": "From a landline, call 911*. From a cell phone: call the Oakland Fire Department dispatch number 510-444-1616."
+        },
+        {
+          "type": "text",
+          "value": "*911 dispatch is understaffed currently and <a href=\"https://www.sfchronicle.com/crime/article/I-hope-nobody-is-bleeding-out-They-called-17166166.php\">regularly overwhelmed</a> by a large call volume."
+        }
+      ]
     },
     {
       "title": "I am experiencing a criminal emergency.",
-      "info": "Depending on where the emergency occurs and whether you have access to a landline, there are different options.",
-      "Landline": "911",
-      "</li><li>Berkeley": "510-981-5911",
-      "</li><li>Emeryville": "510-596-3737"
+      "info": [
+        {
+          "type": "text",
+          "value": "Depending on where the emergency occurs and whether you have access to a landline, there are different options."
+        },
+        {
+          "type": "Landline",
+          "value": "911"
+        },
+        {
+          "type": "text",
+          "value": "Cell Phone Emergency Numbers:"
+        },
+        {
+          "type": "text",
+          "value": "<ul><li>Oakland Police: 510-777-3211"
+        },
+        {
+          "type": "text",
+          "value": "</li><li> Oakland Fire: 510-444-1616"
+        },
+        {
+          "type": "</li><li>Berkeley",
+          "value": "510-981-5911"
+        },
+        {
+          "type": "</li><li>Emeryville",
+          "value": "510-596-3737"
+        },
+        {
+          "type": "text",
+          "value": "</li>"
+        },
+        {
+          "type": "text",
+          "value": "</ul>"
+        },
+        {
+          "type": "text",
+          "value": "Store these numbers in your cell phone in case of emergency."
+        },
+        {
+          "type": "text",
+          "value": "More information can be found <a href=\"https://localwiki.org/oakland/Emergency_Numbers\">here</a>."
+        }
+      ]
     },
     {
       "title": "I have experienced a crime that is no longer an emergency",
-      "info": "If applicable, and you want to involve the police, report the crime <a href=\"https://www.oaklandca.gov/resources/can-the-crime-be-reported-online\">online</a>.",
-      "<ul><li>Phone": "(510) 238-3455",
-      "</li><li>Non-emergency": "(510) 777-3333",
-      "</li><li>Homicide": "(510) 238-7950",
-      "</li><li>Firearms": "(510) 535-4867"
+      "info": [
+        {
+          "type": "text",
+          "value": "If applicable, and you want to involve the police, report the crime <a href=\"https://www.oaklandca.gov/resources/can-the-crime-be-reported-online\">online</a>."
+        },
+        {
+          "type": "text",
+          "value": "Here are the police numbers for different types of crimes:"
+        },
+        {
+          "type": "<ul><li>Phone",
+          "value": "(510) 238-3455"
+        },
+        {
+          "type": "</li><li>Non-emergency",
+          "value": "(510) 777-3333"
+        },
+        {
+          "type": "text",
+          "value": "</li><li>Media Inquiries: (510) 238-7230"
+        },
+        {
+          "type": "text",
+          "value": "</li><li>Crime Stoppers: (510) 777-8572"
+        },
+        {
+          "type": "</li><li>Homicide",
+          "value": "(510) 238-7950"
+        },
+        {
+          "type": "text",
+          "value": "</li><li>Illegal Drugs: (510) 238-3784"
+        },
+        {
+          "type": "</li><li>Firearms",
+          "value": "(510) 535-4867"
+        },
+        {
+          "type": "text",
+          "value": "</li><li>Sexual Assault: (510) 637-0298"
+        },
+        {
+          "type": "text",
+          "value": "</li>"
+        },
+        {
+          "type": "text",
+          "value": "</ul>"
+        }
+      ]
     },
     {
       "title": "I have a problem that is not a crime against a person or my property.",
-      "info": "use <a href=\"https://www.oaklandca.gov/services/oak311\">Oak311</a>. The best way to report things that are problems but not person/property crimes (e.g., blocked drains, dead animals, illegal dumping) is to use 311. There are <a href=\"https://apps.apple.com/us/app/oak-311/id1316091489\">iphone</a> and <a href=\"https://play.google.com/store/apps/details?id%3Dcom.seeclickfix.oak311.app%26hl%3Den_US%26gl%3DUS%26pli%3D1\">android</a> apps that facilitate this process."
+      "info": [
+        {
+          "type": "text",
+          "value": "use <a href=\"https://www.oaklandca.gov/services/oak311\">Oak311</a>. The best way to report things that are problems but not person/property crimes (e.g., blocked drains, dead animals, illegal dumping) is to use 311. There are <a href=\"https://apps.apple.com/us/app/oak-311/id1316091489\">iphone</a> and <a href=\"https://play.google.com/store/apps/details?id%3Dcom.seeclickfix.oak311.app%26hl%3Den_US%26gl%3DUS%26pli%3D1\">android</a> apps that facilitate this process."
+        }
+      ]
     },
     {
       "title": "Community Resource Officers",
-      "info": "Our CRO is Officer Jason Kino (<a href=\"mailto:JKino@oaklandca.gov\">JKino@oaklandca.gov </a>) and the officer Sylvestre Triana (<a href=\"mailto:STriana@oaklandca.gov\">STriana@oaklandca.gov</a>) is a helpful resource for Area 2 (<a href=\"https://www.oaklandca.gov/resources/police-area-2-north-oakland\">North Oakland and Uptown</a>)"
+      "info": [
+        {
+          "type": "text",
+          "value": "Our CRO is Officer Jason Kino (<a href=\"mailto:JKino@oaklandca.gov\">JKino@oaklandca.gov </a>) and the officer Sylvestre Triana (<a href=\"mailto:STriana@oaklandca.gov\">STriana@oaklandca.gov</a>) is a helpful resource for Area 2 (<a href=\"https://www.oaklandca.gov/resources/police-area-2-north-oakland\">North Oakland and Uptown</a>)"
+        },
+        {
+          "type": "text",
+          "value": "If you have a problem that you do not know how to handle and you have information on, you can email <a href=\"mailto:yates@duck.com\">yates@duck.com</a> or email the CROs directly."
+        }
+      ]
     },
     {
       "title": "I have a problem and do not want to involve the police",
-      "info": "There are several community-based organizations that are anti-police. The <a href=\"https://www.antipoliceterrorproject.org/\">anti-terror project</a> has a website and a hotline that I could not find in 5 minutes of searching their website."
+      "info": [
+        {
+          "type": "text",
+          "value": "There are several community-based organizations that are anti-police. The <a href=\"https://www.antipoliceterrorproject.org/\">anti-terror project</a> has a website and a hotline that I could not find in 5 minutes of searching their website."
+        },
+        {
+          "type": "text",
+          "value": "<a href=\"https://www.antipoliceterrorproject.org/\">https://www.antipoliceterrorproject.org/</a>"
+        },
+        {
+          "type": "text",
+          "value": "<a href=\"https://rjoyoakland.org/\">RJoy</a> (a.k.a. Restorative Justice for Oakland Youth) operates a  hotline for mental health emergencies. The number is (888)752-2737"
+        },
+        {
+          "type": "text",
+          "value": "<img src=\"https://lh4.googleusercontent.com/P8l_TN0WDD9sFALba9m4oYwC9FpFefOMAUcaLQLMbmJBirr-adhTSdins8BGK0A2ny5eCR-fdygZ7sGW0i20hgIslxUv_pw8yVwZgCWuSDTplrLcjb2Qeani52r8YOdD5n7jlp8SN6ChS1XU\" alt=\"undefined\"/>"
+        },
+        {
+          "type": "text",
+          "value": "Please email <a href=\"mailto:yates@duck.com\">yates@duck.com</a>  if you have more information on community alternatives. We aim to be inclusive and holistic in our solutions to the problems that are facing the neighborhood."
+        },
+        {
+          "type": "text",
+          "value": "Finally, don’t let perfect be the enemy of good. Solve problems however best fits your style, but please do think about how we should best record what happens so we can create a common narrative for our neighborhood. There is no place for antagonism at NCPC meetings."
+        }
+      ]
     }
   ]
 }

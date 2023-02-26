@@ -64,6 +64,8 @@ const splatTextAndAddStyleMarks = (node, styleMarksPerClass = {}) => {
     text = `<img src="${src}" alt="${alt}"/>`
   } else if (["ul", "ol", "li"].includes(node.rawTagName)) {
     text = `<${node.rawTagName}>${text}</${node.rawTagName}>`
+  } else if (["p"].includes(node.rawTagName)) {
+    text = text.replace("\n", "\n")
   }
   return text
 }

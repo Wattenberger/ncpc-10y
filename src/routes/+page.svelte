@@ -18,11 +18,15 @@
 
 		<HtmlContent value={content.about} />
 
-		<div class="my-20 grid grid-cols-[1fr,1fr] gap-5">
-			{#each content.faq || [] as { title, info }}
-				<div>
-					<h3>{title}</h3>
-					<HtmlContent value={info} />
+		<div class="my-20 grid md:grid-cols-[1fr,1fr] gap-9">
+			{#each (content.faq || []).filter(Boolean) as faq}
+				{@const length = JSON.stringify(faq).length}
+				{@const isFullWidth = length > 800}
+				<div class:md:col-span-2={isFullWidth}>
+					<h3>
+						<HtmlContent value={faq.title} />
+					</h3>
+					<HtmlContent value={faq.info} />
 				</div>
 			{/each}
 		</div>
