@@ -1,10 +1,10 @@
 {
-  "header_image": "<img src=\"https://lh4.googleusercontent.com/LabC9yax64HT5CaaqmOujheCweYRJINmhZE51jIHjj3UCWrkOnP_frcCrsBvs5P5fxoVy8N1G7NeWCA8Ia1zUOvIZL-mwno1T-5J8-pffWTrvJvAg5kMOZ0AqCG5M0J6uYGgSQI53bxZfq9n\" alt=\"undefined\"/>",
+  "header_image": "<img src=\"https://lh4.googleusercontent.com/g20GvPDzU5MqCdG-28X3uq1Qqb4cPHquuwHSwJri38GonjZDBqKOfvhoywBZf27VfgXv5Eli95IErOohJZOJ3XPcEnWI9oo_eLe46BgUXqj7pMIE1tjk41a1cobVGnWTwa_Jk825-nA887Ip\" alt=\"undefined\"/>",
   "title": "Neighborhood Council 10Y",
   "tab_title": "NCPC 10Y",
   "footer": "©2023",
-  "about": "\nThe <a href=\"https://www.oaklandca.gov/topics/neighborhood-councils\">Neighborhood Council</a> (formerly Neighborhood Crime Prevention Council) for beat 10Y exists as a forum to find community solutions to ongoing problems in the neighborhoods of Longfellow (North of 40th St) and Santa Fe. We believe in a holistic approach to crime prevention and work in partnership with the City of Oakland to address ongoing problems in our neighborhoods.\n \nMonthly meetings will be attended by a Community Resource Officer (CRO) – a specifically-designated OPD officer whose position is funded by <a href=\"https://cao-94612.s3.amazonaws.com/documents/MZ__2018-Policing-Eval-Year-2.pdf\">Measure Z</a>. Any community member (lives, works, or worships) who wishes to regularly attend and participate in meetings is also welcome to join by signing up <a href=\"https://forms.gle/doTCnAGyMq8FRHh39\">here</a>. We will often have speakers from the city or community lined up for our meetings.",
-  "schedule": "\nNC 10Y meets on the 4th Wednesday of each month (except December and November). Any community member (lives, works, or worships) who wishes to regularly attend and participate in meetings is also welcome to join by signing up <a href=\"https://forms.gle/doTCnAGyMq8FRHh39\">here</a>.\nOur next meeting is on Wednesday, March 22, 2023 at 6:30 PM..  We are working to find a space to host hybrid meetings for those who would rather attend in person (if you have a space that is amenable to host a hybrid meeting, please email <a href=\"mailto:yates@duck.com\">yates@duck.com</a>). \n\n<ul><li>Wednesday, March 22, 2023 at 6:30 PM\n</li><li>Wednesday, April 26, 2023 at 6:30 PM\n</li><li>Wednesday, May 24, 2023 at 6:30 PM\n</li><li>Wednesday, June 28, 2023 at 6:30 PM\n</li><li>Wednesday, July 27, 2023 at 6:30 PM\n</li><li>Wednesday, August 23, 2023 at 6:30 PM\n</li><li>Wednesday, September 27, 2023 at 6:30 PM\n</li><li>Wednesday, October 25, 2023 at 6:30 PM\n</li>\n</ul>",
+  "about": "\nThe <a href=\"https://www.oaklandca.gov/topics/neighborhood-councils\">Neighborhood Council</a> (formerly Neighborhood Crime Prevention Council) for beat 10Y exists as a forum to find community solutions to ongoing problems in the neighborhoods of Longfellow (North of 40th St) and Santa Fe. We believe in a holistic approach to crime prevention and work in partnership with the City of Oakland to address ongoing problems in our neighborhoods.\n \nMonthly meetings will be attended by a Community Resource Officer (CRO) – a specifically-designated OPD officer whose position is funded by <a href=\"https://cao-94612.s3.amazonaws.com/documents/MZ__2018-Policing-Eval-Year-2.pdf\">Measure Z</a>. Any community member (lives, works, or worships in 10Y) who wishes to regularly attend and participate in meetings is also welcome to join by signing up <a href=\"https://forms.gle/doTCnAGyMq8FRHh39\">here</a>. We will often have speakers from the city or community lined up for our meetings.",
+  "schedule": "\nNC 10Y meets on the 4th Wednesday of each month (except December and November). Any community member (lives, works, or worships) who wishes to regularly attend and participate in meetings is also welcome to join by signing up <a href=\"https://forms.gle/doTCnAGyMq8FRHh39\">here</a>.\n\nOur next meeting is on Wednesday, March 22, 2023 at 6:30 PM..  We are working to find a space to host hybrid meetings for those who would rather attend in person (if you have a space that is amenable to host a hybrid meeting, please email <a href=\"mailto:yates@duck.com\">yates@duck.com</a>). \n\n<ul><li>Wednesday, March 22, 2023 at 6:30 PM\n</li><li>Wednesday, April 26, 2023 at 6:30 PM\n</li><li>Wednesday, May 24, 2023 at 6:30 PM\n</li><li>Wednesday, June 28, 2023 at 6:30 PM\n</li><li>Wednesday, July 27, 2023 at 6:30 PM\n</li><li>Wednesday, August 23, 2023 at 6:30 PM\n</li><li>Wednesday, September 27, 2023 at 6:30 PM\n</li><li>Wednesday, October 25, 2023 at 6:30 PM\n</li>\n</ul>",
   "faq": [
     {
       "title": [
@@ -16,11 +16,11 @@
       "info": [
         {
           "type": "text",
-          "value": "For many people, reporting a problem is an obvious first step to solving that problem. However, due to increasing distrust of city services, many people in Oakland are hesitant to involve the city (e.g., the police). Our NC recognizes this reality, but on principle, we take a data-driven approach to understanding what problems our neighborhood is facing. How can we solve a problem if we do not know it exists?"
+          "value": "For many people, reporting a problem is an obvious first step to solving that problem. However, due to increasing distrust of city services, many people in Oakland are hesitant to involve the city (e.g., the police). Our NC recognizes this reality, however, we try to take a data-driven approach to understanding what problems our neighborhood is facing.  How can we solve a problem if we do not know it exists?"
         },
         {
           "type": "text",
-          "value": "Whether or not you, personally, believe in the current form of policing in US cities, we urge you to find a constructive way to report the obstacles you are encountering. We will work to create multiple options for you and to build a cohesive accounting of what happens in 10Y. This section is a living document that represents our current understanding of how best to report problems Longfellow and Santa Fe neighbors encounter."
+          "value": "Whether or not you, personally, believe in the current form of policing in US cities, we urge you to find a constructive way to report the obstacles you are encountering. We will work to create multiple options for you and to build a cohesive accounting of what happens in 10Y. This section is a living document that represents our current understanding of how best to report problems Longfellow and Santa Fe neighbors encounter. Please email <a href=\"mailto:yates@duck.com\">yates@duck.com</a> if you have additional resources that should be listed here."
         }
       ]
     },
@@ -38,7 +38,11 @@
       "info": [
         {
           "type": "text",
-          "value": "From a landline, call 911*. From a cell phone: call the Oakland Fire Department dispatch number 510-444-1616."
+          "value": "From a landline, call 911*."
+        },
+        {
+          "type": "text",
+          "value": "From a cell phone: call the Oakland Fire Department dispatch number 510-444-1616."
         },
         {
           "type": "text",
@@ -67,7 +71,7 @@
         },
         {
           "type": "text",
-          "value": "</li><li> Oakland Fire: 510-444-1616"
+          "value": "</li><li>Oakland Fire: 510-444-1616"
         },
         {
           "type": "</li><li>Berkeley",
@@ -153,7 +157,11 @@
       "info": [
         {
           "type": "text",
-          "value": "use <a href=\"https://www.oaklandca.gov/services/oak311\">Oak311</a>. The best way to report things that are problems but not person/property crimes (e.g., blocked drains, dead animals, illegal dumping) is to use 311. There are <a href=\"https://apps.apple.com/us/app/oak-311/id1316091489\">iphone</a> and <a href=\"https://play.google.com/store/apps/details?id%3Dcom.seeclickfix.oak311.app%26hl%3Den_US%26gl%3DUS%26pli%3D1\">android</a> apps that facilitate this process."
+          "value": "use <a href=\"https://www.oaklandca.gov/services/oak311\">Oak311</a>."
+        },
+        {
+          "type": "text",
+          "value": "The best way to report things that are problems but not person/property crimes (e.g., blocked drains, dead animals, illegal dumping) is to use 311. There are <a href=\"https://apps.apple.com/us/app/oak-311/id1316091489\">iphone</a> and <a href=\"https://play.google.com/store/apps/details?id%3Dcom.seeclickfix.oak311.app%26hl%3Den_US%26gl%3DUS%26pli%3D1\">android</a> apps that facilitate this process."
         }
       ]
     },
@@ -187,7 +195,7 @@
         },
         {
           "type": "text",
-          "value": "<img src=\"https://lh4.googleusercontent.com/P8l_TN0WDD9sFALba9m4oYwC9FpFefOMAUcaLQLMbmJBirr-adhTSdins8BGK0A2ny5eCR-fdygZ7sGW0i20hgIslxUv_pw8yVwZgCWuSDTplrLcjb2Qeani52r8YOdD5n7jlp8SN6ChS1XU\" alt=\"undefined\"/>"
+          "value": "<img src=\"https://lh5.googleusercontent.com/fw77-yiqywnFsfOV5zFWM4EJvV-95dmWvmcUZVH87IlojStJmG8KESH5F0FhYcMGcWWgMHdSLxWai1yFEbi6gBLCE-cbh82rzLcT7P__IDqOnnVkE9DWEiTwOXennnEiH27qzszk7lMMUZFO\" alt=\"undefined\"/>"
         },
         {
           "type": "text",
