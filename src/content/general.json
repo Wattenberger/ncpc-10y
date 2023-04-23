@@ -1,5 +1,5 @@
 {
-  "header_image": "<img src=\"https://lh4.googleusercontent.com/g20GvPDzU5MqCdG-28X3uq1Qqb4cPHquuwHSwJri38GonjZDBqKOfvhoywBZf27VfgXv5Eli95IErOohJZOJ3XPcEnWI9oo_eLe46BgUXqj7pMIE1tjk41a1cobVGnWTwa_Jk825-nA887Ip\" alt=\"undefined\"/>",
+  "header_image": "<img src=\"https://lh3.googleusercontent.com/docs/ADP-6oFpBkJJkT3vuzePeLOo-doe6spSJ9qCRYcPyVE3azPzYRLMVC1YEfkDZsSIZnuyY-HOxwcB1159-xpKEC_ypuasuvMpQnfJbANTxXummBSB7ZYlDg6niGrKOSdj1BJr1I257aAARG_roZmtIGtMlQh4o6H7QQiVF2SjlcRaWxs5X_m22fbRhzeVvg2PRX7DYlw\" alt=\"undefined\"/>",
   "title": "Neighborhood Council 10Y",
   "tab_title": "NCPC 10Y",
   "footer": "©2023",
@@ -179,6 +179,15 @@
       ]
     },
     {
+      "title": "Reporting Abandoned Vehicles",
+      "info": [
+        {
+          "type": "text",
+          "value": "The city of Oakland has a new program for <a href=\"https://www.oaklandca.gov/news/2023/city-of-oakland-launches-oakdots-vehicle-enforcement-unit-shifting-abandoned-auto-removal-from-police-to-civilian-workers-2?\">abandoned vehicles</a>. It is quickest to email <a href=\"mailto:VehicleAbatement@oaklandca.gov\">VehicleAbatement@oaklandca.gov</a>, instead of reporting through 311."
+        }
+      ]
+    },
+    {
       "title": "I have a problem and do not want to involve the police",
       "info": [
         {
@@ -195,7 +204,7 @@
         },
         {
           "type": "text",
-          "value": "<img src=\"https://lh5.googleusercontent.com/fw77-yiqywnFsfOV5zFWM4EJvV-95dmWvmcUZVH87IlojStJmG8KESH5F0FhYcMGcWWgMHdSLxWai1yFEbi6gBLCE-cbh82rzLcT7P__IDqOnnVkE9DWEiTwOXennnEiH27qzszk7lMMUZFO\" alt=\"undefined\"/>"
+          "value": "<img src=\"https://lh3.googleusercontent.com/docs/ADP-6oGQphqyxffGMJsc2q-JYhQAdGFE8HS9DEl9ZfVSNLWhQMtfuIGM2irSO70tSbdTx8c0ICaLn6xK7xsBez6zUcTeEUvBU_DPvZJiKx6NwzxKOQf4s-lqawUcVQXCpR9x8ZXBz7ykba9t22pWzFhR47JFRl956XO-dyR6WVlgF22366YDklpaYdO8m0A4KXKRBfg\" alt=\"undefined\"/>"
         },
         {
           "type": "text",
