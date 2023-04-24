@@ -1,35 +1,26 @@
 {
-  "header_image": "<img src=\"https://lh3.googleusercontent.com/docs/ADP-6oFpBkJJkT3vuzePeLOo-doe6spSJ9qCRYcPyVE3azPzYRLMVC1YEfkDZsSIZnuyY-HOxwcB1159-xpKEC_ypuasuvMpQnfJbANTxXummBSB7ZYlDg6niGrKOSdj1BJr1I257aAARG_roZmtIGtMlQh4o6H7QQiVF2SjlcRaWxs5X_m22fbRhzeVvg2PRX7DYlw\" alt=\"undefined\"/>",
+  "header_image": "<img src=\"https://lh6.googleusercontent.com/jSQpPS0mEBjuaj2Io5Pd-CNmW93NPGuos4mVZpmdWqFj3sVjlkE6vc6vZZJbdL5OV4D5C2BVHMpEWcs9ZVzqyuF82ien-T5kibRVLV0kSo7lIwFEd_prBtsuxZmJaEB5Zv5S4uzLAESzotzI\" alt=\"undefined\"/>",
   "title": "Neighborhood Council 10Y",
   "tab_title": "NCPC 10Y",
   "footer": "©2023",
-  "about": "\nThe <a href=\"https://www.oaklandca.gov/topics/neighborhood-councils\">Neighborhood Council</a> (formerly Neighborhood Crime Prevention Council) for beat 10Y exists as a forum to find community solutions to ongoing problems in the neighborhoods of Longfellow (North of 40th St) and Santa Fe. We believe in a holistic approach to crime prevention and work in partnership with the City of Oakland to address ongoing problems in our neighborhoods.\n \nMonthly meetings will be attended by a Community Resource Officer (CRO) – a specifically-designated OPD officer whose position is funded by <a href=\"https://cao-94612.s3.amazonaws.com/documents/MZ__2018-Policing-Eval-Year-2.pdf\">Measure Z</a>. Any community member (lives, works, or worships in 10Y) who wishes to regularly attend and participate in meetings is also welcome to join by signing up <a href=\"https://forms.gle/doTCnAGyMq8FRHh39\">here</a>. We will often have speakers from the city or community lined up for our meetings.",
-  "schedule": "\nNC 10Y meets on the 4th Wednesday of each month (except December and November). Any community member (lives, works, or worships) who wishes to regularly attend and participate in meetings is also welcome to join by signing up <a href=\"https://forms.gle/doTCnAGyMq8FRHh39\">here</a>.\n\nOur next meeting is on Wednesday, March 22, 2023 at 6:30 PM..  We are working to find a space to host hybrid meetings for those who would rather attend in person (if you have a space that is amenable to host a hybrid meeting, please email <a href=\"mailto:yates@duck.com\">yates@duck.com</a>). \n\n<ul><li>Wednesday, March 22, 2023 at 6:30 PM\n</li><li>Wednesday, April 26, 2023 at 6:30 PM\n</li><li>Wednesday, May 24, 2023 at 6:30 PM\n</li><li>Wednesday, June 28, 2023 at 6:30 PM\n</li><li>Wednesday, July 27, 2023 at 6:30 PM\n</li><li>Wednesday, August 23, 2023 at 6:30 PM\n</li><li>Wednesday, September 27, 2023 at 6:30 PM\n</li><li>Wednesday, October 25, 2023 at 6:30 PM\n</li>\n</ul>",
+  "about": "\nThe <a href=\"https://www.oaklandca.gov/topics/neighborhood-councils\">Neighborhood Council</a> (formerly Neighborhood Crime Prevention Council) for beat 10Y exists as a forum to find community solutions to ongoing problems in the neighborhoods of Longfellow (North of 40th St) and Santa Fe. We believe in a holistic approach to crime prevention and work in partnership with the City of Oakland to address ongoing problems in our neighborhoods.\n \nMonthly meetings will be attended by a Community Resource Officer (CRO) and a member of council member Dan Kalb’s office. Any community member (lives, works, or worships in 10Y) who wishes to regularly attend and participate in meetings is also welcome to join by signing up <a href=\"https://forms.gle/doTCnAGyMq8FRHh39\">here</a>. We will often have speakers from the city or community lined up for our meetings.",
+  "schedule": "\nNC 10Y meets on the 4th Wednesday of each month (except December and November). Any community member (lives, works, or worships) who wishes to regularly attend and participate in meetings is also welcome to join by signing up <a href=\"https://forms.gle/doTCnAGyMq8FRHh39\">here</a>.\n\nOur next meeting is on Wednesday, April 26th, 2023 at 6:30 PM..  We are working to find a space to host hybrid meetings for those who would rather attend in person (if you have a space that is amenable to host a hybrid meeting, please email <a href=\"mailto:yates@duck.com\">yates@duck.com</a>). \n\n<ul><li>Wednesday, March 22, 2023 at 6:30 PM\n</li><li>Wednesday, April 26, 2023 at 6:30 PM\n</li><li>Wednesday, May 24, 2023 at 6:30 PM\n</li><li>Wednesday, June 28, 2023 at 6:30 PM\n</li><li>Wednesday, July 27, 2023 at 6:30 PM\n</li><li>Wednesday, August 23, 2023 at 6:30 PM\n</li><li>Wednesday, September 27, 2023 at 6:30 PM\n</li><li>Wednesday, October 25, 2023 at 6:30 PM\n</li>\n</ul>",
   "faq": [
     {
       "title": [
         {
           "type": "text",
-          "value": "Why reporting a problem is important."
+          "value": "How to report a problem:"
         }
       ],
       "info": [
         {
           "type": "text",
-          "value": "For many people, reporting a problem is an obvious first step to solving that problem. However, due to increasing distrust of city services, many people in Oakland are hesitant to involve the city (e.g., the police). Our NC recognizes this reality, however, we try to take a data-driven approach to understanding what problems our neighborhood is facing.  How can we solve a problem if we do not know it exists?"
+          "value": "Reporting a problem is an obvious first step to solving that problem."
         },
         {
           "type": "text",
-          "value": "Whether or not you, personally, believe in the current form of policing in US cities, we urge you to find a constructive way to report the obstacles you are encountering. We will work to create multiple options for you and to build a cohesive accounting of what happens in 10Y. This section is a living document that represents our current understanding of how best to report problems Longfellow and Santa Fe neighbors encounter. Please email <a href=\"mailto:yates@duck.com\">yates@duck.com</a> if you have additional resources that should be listed here."
-        }
-      ]
-    },
-    {
-      "title": "How do I report a problem?",
-      "info": [
-        {
-          "type": "text",
-          "value": "Depending on the problem (and whether it is a crime and whether you want to involve city services) there are several ways to report. That’s what this faq is for. (Note: this is an evolving document and will likely change as we collect more information)."
+          "value": "Here is an evolving FAQ for how to report a problem. We try to keep this up to date and include both city and community resources."
         }
       ]
     },
@@ -95,7 +86,11 @@
         },
         {
           "type": "text",
-          "value": "More information can be found <a href=\"https://localwiki.org/oakland/Emergency_Numbers\">here</a>."
+          "value": "For non-violent emergencies where you don’t want the police to respond, you can request the Mobile Assistance Community Responders of Oakland (<a href=\"https://www.oaklandca.gov/projects/macro-mobile-assistance-community-responders-of-oakland\">MACRO</a>) to respond when calling 911"
+        },
+        {
+          "type": "text",
+          "value": "More information about these options can be found <a href=\"https://localwiki.org/oakland/Emergency_Numbers\">here</a>."
         }
       ]
     },
@@ -166,6 +161,15 @@
       ]
     },
     {
+      "title": "Reporting Abandoned Vehicles",
+      "info": [
+        {
+          "type": "text",
+          "value": "The city of Oakland has a new program for <a href=\"https://www.oaklandca.gov/news/2023/city-of-oakland-launches-oakdots-vehicle-enforcement-unit-shifting-abandoned-auto-removal-from-police-to-civilian-workers-2?\">abandoned vehicles</a>. It is quickest to email <a href=\"mailto:VehicleAbatement@oaklandca.gov\">VehicleAbatement@oaklandca.gov</a>, instead of reporting through 311."
+        }
+      ]
+    },
+    {
       "title": "Community Resource Officers",
       "info": [
         {
@@ -175,15 +179,6 @@
         {
           "type": "text",
           "value": "If you have a problem that you do not know how to handle and you have information on, you can email <a href=\"mailto:yates@duck.com\">yates@duck.com</a> or email the CROs directly."
-        }
-      ]
-    },
-    {
-      "title": "Reporting Abandoned Vehicles",
-      "info": [
-        {
-          "type": "text",
-          "value": "The city of Oakland has a new program for <a href=\"https://www.oaklandca.gov/news/2023/city-of-oakland-launches-oakdots-vehicle-enforcement-unit-shifting-abandoned-auto-removal-from-police-to-civilian-workers-2?\">abandoned vehicles</a>. It is quickest to email <a href=\"mailto:VehicleAbatement@oaklandca.gov\">VehicleAbatement@oaklandca.gov</a>, instead of reporting through 311."
         }
       ]
     },
@@ -204,7 +199,7 @@
         },
         {
           "type": "text",
-          "value": "<img src=\"https://lh3.googleusercontent.com/docs/ADP-6oGQphqyxffGMJsc2q-JYhQAdGFE8HS9DEl9ZfVSNLWhQMtfuIGM2irSO70tSbdTx8c0ICaLn6xK7xsBez6zUcTeEUvBU_DPvZJiKx6NwzxKOQf4s-lqawUcVQXCpR9x8ZXBz7ykba9t22pWzFhR47JFRl956XO-dyR6WVlgF22366YDklpaYdO8m0A4KXKRBfg\" alt=\"undefined\"/>"
+          "value": "<img src=\"https://lh6.googleusercontent.com/rdx2I6qGLnLv8OuywrnfCeOJkLOfbJ8mjDjuZvB6MppFQjNhqp6mYg8H02t3D_0dMZjZx-1U6PMdwbULe4TZRQg3NOfAY7oWNdP8IGWHLO2UhPkuR3-DX0Cnbjpuog4jlI4CEKIycTVdYOYX\" alt=\"undefined\"/>"
         },
         {
           "type": "text",
